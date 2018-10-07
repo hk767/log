@@ -58,6 +58,6 @@ modified: 2018-10-07T11:39:37-04:00
 <hr/>
 * Pop culture/industry
     - Kpop stars in America: Failures and Success (kr)
-        -<https://m.post.naver.com/viewer/postView.nhn?volumeNo=10480092&memberNo=30808112>
+        - <https://m.post.naver.com/viewer/postView.nhn?volumeNo=10480092&memberNo=30808112>
 
 <hr/>
