@@ -268,6 +268,11 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+# Collections
+collections:
+  monthly:
+    output: true
+    permalink: /:collection/:path/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -298,3 +303,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _monthly
+    - scope:
+      path: ""
+      type: monthly
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "monthly"
