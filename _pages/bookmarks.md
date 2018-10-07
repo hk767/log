@@ -27,7 +27,7 @@ modified: 2018-10-07T11:39:37-04:00
     - Understanding KPI through regression (kr)
         - <https://brunch.co.kr/@gimmesilver/29>
     - Easy conceptualization of deep learning (kr)
-        -<https://www.slideshare.net/yongho/ss-79607172>
+        - <https://www.slideshare.net/yongho/ss-79607172>
 
 <hr/>
 * Data Architecture - this is a topic that I HAVE NO IDEA on.
