@@ -32,10 +32,10 @@ modified: 2018-10-07T11:39:37-04:00
 <hr/>
 * Data Architecture - this is a topic that I HAVE NO IDEA on.
     - Design of Extended Real-time Data Pipeline System Architecture (kr)
-        -<http://kiise.or.kr/e_journal/2015/8/JOK/pdf/08.pdf>
+        - <http://kiise.or.kr/e_journal/2015/8/JOK/pdf/08.pdf>
     - I probably do not understand much of it, but this is for skimming through flows and structures. 
     - Cyber security and big data (kr)
-        -<https://ettrends.etri.re.kr/ettrends/141/0905001823/28-3_019-029.pdf>
+        - <https://ettrends.etri.re.kr/ettrends/141/0905001823/28-3_019-029.pdf>
             - This is also for getting some basics behind it. 
 
 <hr/>
@@ -46,14 +46,14 @@ modified: 2018-10-07T11:39:37-04:00
 <hr/>
 * Med & IT
     - Cyber Security Guide for Smart Medical Service (kr)
-        -<http://www.kisa.or.kr/uploadfile/201805/201805290956314977.pdf>
+        - <http://www.kisa.or.kr/uploadfile/201805/201805290956314977.pdf>
 
 <hr/>
 * Game Analysis
     - Some basic examples (kr)
-        -<http://hiprock.tistory.com/169>
+        - <http://hiprock.tistory.com/169>
     - KPI glossary (en)
-        -<https://docs.adjust.com/en/kpi-glossary/>
+        - <https://docs.adjust.com/en/kpi-glossary/>
 
 <hr/>
 * Pop culture/industry
