@@ -5,8 +5,8 @@ excerpt: "Archive of online articles (link only)"
 modified: 2018-10-07T11:39:37-04:00
 ---
 
-** This page contains a list of links to online articles of various topics.
-Those links are primarily for personal archiving. **
+**This page contains a list of links to online articles of various topics.
+  Those links are primarily for personal archiving.**
 
 <hr/>
 * Math (General)
